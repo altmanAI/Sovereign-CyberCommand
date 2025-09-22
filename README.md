@@ -2,7 +2,7 @@
 
 **Author:** Blake Hunter Altman — Sovereign Commander  
 **Maintained by:** AltmanAI · Sovereign-USA Nation  
-**Registry Entry:** #0003 — proof-of-impact hash: `SHA‑256: <yourHashHere>`
+**Registry Entry:** #0003 — proof-of-impact hash: `SHA‑256: <SOVEREIGN-CYBERCOMMAND>`
 
 ---
 
